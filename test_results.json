@@ -1,0 +1,20 @@
+[
+  {
+    "file": "test_audio/manual/test_001.wav",
+    "reference": "xin chào đây là bài test",
+    "predicted": " Xin chào đây là bài tes.",
+    "wer": 0.3333333333333333
+  },
+  {
+    "file": "test_audio/manual/test_002.wav",
+    "reference": "tôi có meeting lúc ba giờ",
+    "predicted": " Tôi có miết tình lúc bà giờ.",
+    "wer": 0.8333333333333334
+  },
+  {
+    "file": "test_audio/manual/test_003.wav",
+    "reference": "số điện thoại không một hai ba",
+    "predicted": " Số điện thoải không 1,23.",
+    "wer": 0.7142857142857143
+  }
+]
